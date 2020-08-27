@@ -5,10 +5,3 @@
  
  Includes [a PDF](/backpropagation-from-scratch.pdf) with the theoretical foundations, also available [on mathcha](https://www.mathcha.io/editor/vrmV3C1KFnvu2Dx3ewh7rgr54fBOvJL2TzoNWNe).
  
-## Why I made this
-
-I decided it was important to build an intuitive understanding of backpropagation, and to be able to derive everything on paper in case I was suddenly transported back to victorian London.
-
-## How long it took me
-
-One month, during which I noticed an obvious increase in my ability to turn element-wise expressions into linear algebra using the power of imagination.
